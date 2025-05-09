@@ -1,0 +1,9 @@
+{
+	"name": "factory-databricks-aline",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9c1aa81-dbf8-4bb7-8a19-55e8319ff2ab",
+		"tenantId": "8986b10f-eced-47b0-82b2-813f86f60d49"
+	}
+}
